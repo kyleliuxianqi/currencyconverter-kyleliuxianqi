@@ -94,7 +94,7 @@
         android:textStyle="italic"
         android:textSize="20sp"
         android:textColor="@color/black"
-        android:text="Convert Result:"/>
+        android:text="Converted Result:"/>
 
     <TextView
         android:id="@+id/tv_ConvertResult"
