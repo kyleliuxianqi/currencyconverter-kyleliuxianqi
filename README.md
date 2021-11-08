@@ -1,6 +1,7 @@
 # currencyconverter-kyleliuxianqi
 Assignment 4 - Currency Converter
-by LIU Xianqi 61551
+
+**by LIU Xianqi 61551**
 
 Due to the ExchangeRates API that is suggested in class ask me to pay, otherwise 
 I can't use lots of features like HTTPS, the endpoints for only using currency code 
